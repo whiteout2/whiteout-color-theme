@@ -1,2 +1,3 @@
 # Change Log
-Test
+
+* .vsixmanifest improved layout

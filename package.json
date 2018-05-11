@@ -1,0 +1,31 @@
+{
+	"name": "whiteout",
+	"displayName": "whiteout",
+	"description": "Color theme",
+	"version": "0.0.1",
+	"publisher": "whiteout",
+	"engines": {
+		"vscode": "^1.10.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"theme",
+		"light"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Whiteout",
+				"uiTheme": "vs",
+				"path": "./themes/whiteout-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "",
+		"publisherId": "",
+		"publisherDisplayName": "whiteout"
+	}
+}
